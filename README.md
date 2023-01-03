@@ -1,0 +1,1 @@
+# Holy Grail - Sharing State of each component with the rest
